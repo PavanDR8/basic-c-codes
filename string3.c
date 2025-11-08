@@ -5,6 +5,6 @@ int main(){
     fgets(n,sizeof(n),stdin);
     //gets(n);
     printf("\n\nInput string is:");
-    //puts(n);
+    puts(n);
     return 0;
 }
