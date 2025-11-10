@@ -12,7 +12,7 @@ void main(){
     fgets(str,sizeof str,stdin);
     l=strlen(str);
     printf("The chharacters of the string in reverse are :\n");
-
+//reverse order to check ...
     for (i=l-1;i>=0;i--){
         printf("%c",str[i]);
     }

@@ -15,3 +15,4 @@ void main(){
     }
     printf("\n");
 }
+///write  a program in c to separate the individual character from a string

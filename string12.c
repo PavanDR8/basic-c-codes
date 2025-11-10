@@ -15,7 +15,7 @@ int main(int argc,char*argv[]){
         }
         int c=0;
         //c=atoi(argv[1])+atoi(argv[2]);
-        c=argv[1]+argv[2];
+       // c=argv[1]+argv[2];//error of compile time it is not match condition .
         printf("\n\nAddition is =%d",c);
     }
 }
