@@ -19,9 +19,10 @@ int main(){
             inWord = 0;
         }
         else {
-            if(inWord==0){
-                wrd++;
-                inWord = 1;
+            if(inWord==0)//before the inword
+            {
+                wrd++; //count inword
+                inWord = 1;//after count in inword
             }
         }
     }
